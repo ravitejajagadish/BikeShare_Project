@@ -4,4 +4,5 @@ This project uncovers the bike share use in Chicago, New York City, and Washingt
 Any other data with similar format can be used to compute statistics. 
 The data used should be in the csv format.
 
-Requirement: Pandas 
+Requirement: Python 3.x 
+             Pandas 
